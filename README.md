@@ -2,10 +2,10 @@
 <table border="10" align="center">
   <!--Biodata-->
   <tr>
-    <td align="center" width="300">
-      <img src="image/jeng big.JPG" height="300" width="auto" title="Liew Yng Jeng" alt="Liew Yng Jeng">
+    <td colspan="2" align="center">
+      <img src="image/cat.jpeg" height="300" title="Liew Yng Jeng" alt="Liew Yng Jeng">
     </td>
-    <td colspan="2" width="450">
+    <td colspan="2">
       <blockquote>Nickname :</blockquote>
       <div align="right"><b>Jeng / David</b></div>
       <blockquote>Hometown :</blockquote>
@@ -18,10 +18,10 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>1. Hobby 🔥</h4></td>
+    <td colspan="4"><h4>1. Hobby 🔥</h4></td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       <br>
       <div align="center">
         <img src="image/genshin.png" height="100" width="auto" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/><b>Video Game(Genshin Impact)</b>
@@ -32,10 +32,10 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>2. Education (Universiti Teknologi Malaysia) 🎓</h4></td>
+    <td colspan="4"><h4>2. Education (Universiti Teknologi Malaysia) 🎓</h4></td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       <br>
       <blockquote>
         <pre>Master in Data Science</pre>
@@ -50,10 +50,10 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>3. Hard Skills 💻</h4></td>
+    <td colspan="4"><h4>3. Hard Skills 💻</h4></td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       
 ##### Web Development : 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -67,27 +67,31 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>4. University Activity Achievement 🏆</h4></td>
+    <td colspan="4"><h4>4. University Activity Achievement 🏆</h4></td>
   </tr>
   <tr align="center">
-    <td>
+    <td width="25%">
       <img src="image/JKM KDSE.jpeg" height="100" width="auto" title="JKM KDSE" alt="JKM KDSE"/><br>
-      <b>Student College Committee</b>
+      <h5><b>Student College Committee</b></h5>
     </td>
-    <td>
+    <td width="25%">
       <img src="image/MPP FC.jpeg" height="100" width="auto" title="MPP FC" alt="MPP FC"/><br>
-      <b>Student Representative Council</b>
+      <h5><b>Student Representative Council</b></h5>
     </td>
-    <td>
+    <td width="25%">
+      <img src="image/parliament.jpeg" height="100" width="auto" title="MPP FC" alt="MPP FC"/><br>
+      <h5><b>UTM National Parliament Representative</b></h5>
+    </td>
+    <td width="25%">
       <img src="image/Event Lecturer.jpeg" height="100" width="auto" title="Event Lecturer" alt="Event Lecturer"/><br>
-      <b>Event Lecturer</b>
+      <h5><b>Event Lecturer</b></h5>
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>5. Internship Experience 💼</h4></td>
+    <td colspan="4"><h4>5. Internship Experience 💼</h4></td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       <ul>
         <li>
           <b>Position: Network Maintenance</b>
