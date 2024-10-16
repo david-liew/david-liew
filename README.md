@@ -7,7 +7,7 @@
     </td>
     <td colspan="2" width="450">
       <blockquote>Hometown :</blockquote>
-      <div align="right"><b>Kluang, Johor, Malaysia</b></div>
+      <div align="right"><b>Johor, Malaysia</b></div>
       <blockquote>Language :</blockquote>
       <div align="right"><b>Malay, English, Mandarin, and Cantonese</b></div>
       <blockquote>About Me :</blockquote>
