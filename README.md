@@ -3,13 +3,9 @@
   <!--Biodata-->
   <tr>
     <td align="center" width="300">
-      <img src="image/jeng big.JPG" height="350" width="auto" title="Liew Yng Jeng" alt="Liew Yng Jeng">
+      <img src="image/jeng big.JPG" height="300" width="auto" title="Liew Yng Jeng" alt="Liew Yng Jeng">
     </td>
     <td colspan="2" width="450">
-      <blockquote>Name :</blockquote>
-      <div align="right"><b>Liew Yng Jeng (Jeng / David)</b></div>
-      <blockquote>Email :</blockquote>
-      <div align="right"><b>liewjeng@graduate.utm.my</b></div>
       <blockquote>Hometown :</blockquote>
       <div align="right"><b>Kluang, Johor, Malaysia</b></div>
       <blockquote>Language :</blockquote>
@@ -40,10 +36,13 @@
     <td colspan="3">
       <br>
       <blockquote>
+        <pre>Master in Data Science</pre>
+      </blockquote>
+      <blockquote>
         <pre>Bachelor of Computer Science (Software Engineering) with Honours</pre>
       </blockquote>
       <blockquote>
-        <pre>Master in Data Science</pre>
+        <pre>Diploma in Computer Science (Information Technology)</pre>
       </blockquote>
       <br>
     </td>
