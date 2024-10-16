@@ -6,6 +6,8 @@
       <img src="image/jeng big.JPG" height="300" width="auto" title="Liew Yng Jeng" alt="Liew Yng Jeng">
     </td>
     <td colspan="2" width="450">
+      <blockquote>Nickname :</blockquote>
+      <div align="right"><b>Jeng / David</b></div>
       <blockquote>Hometown :</blockquote>
       <div align="right"><b>Johor, Malaysia</b></div>
       <blockquote>Language :</blockquote>
