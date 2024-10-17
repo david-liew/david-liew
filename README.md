@@ -71,15 +71,15 @@
   </tr>
   <tr align="center">
     <td width="25%">
-      <img src="image/JKM KDSE.jpeg" height="100" title="JKM KDSE" alt="JKM KDSE"/><br>
+      <img src="image/JKM KDSE.jpeg" height="100" title="Student College Committee" alt="Student College Committee"/><br>
       <h5><b>Student College Committee</b></h5>
     </td>
     <td width="25%">
-      <img src="image/MPP FC.jpeg" height="100" title="MPP FC" alt="MPP FC"/><br>
+      <img src="image/MPP FC.jpeg" height="100" title="Student Representative Council" alt="Student Representative Council"/><br>
       <h5><b>Student Representative Council</b></h5>
     </td>
     <td width="25%">
-      <img src="image/parliament.jpeg" height="100" title="MPP FC" alt="MPP FC"/><br>
+      <img src="image/parliament.jpeg" height="100" title="UTM National Parliament Representative" alt="UTM National Parliament Representative"/><br>
       <h5><b>UTM National Parliament Representative</b></h5>
     </td>
     <td width="25%">
