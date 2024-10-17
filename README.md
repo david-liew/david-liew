@@ -15,7 +15,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=35&duration=3000&color=FFFFFF&width=435&lines=I'm+David+%F0%9F%91%BB%F0%9F%91%8B;Welcome+to+my+profile!;" />
 
 🎓 *Student | Developer*  
-🌟 ENFJ-T
+🌟 ENFJ-T<br>
 💻 Passionate about coding and creating innovative solutions.  
 🌱 Currently studying *Master In Data Science*.  
 💖 Love exploring *technology, music, and nature*.
