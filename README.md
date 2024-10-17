@@ -24,9 +24,9 @@
     <td colspan="4">
       <br>
       <div align="center">
-        <img src="image/genshin.png" height="100" width="auto" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/><b>Video Game(Genshin Impact)</b>
-        <img src="image/chess.png" height="100" width="auto" title="Chess" alt="Chess"/><b>Chess</b>
-        <img src="image/bmt.png" height="100" width="auto" title="Badminton" alt="Badminton"/><b>Badminton</b>
+        <img src="image/genshin.png" height="100" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/><b>Video Game(Genshin Impact)</b>
+        <img src="image/chess.png" height="100" title="Chess" alt="Chess"/><b>Chess</b>
+        <img src="image/bmt.png" height="100" title="Badminton" alt="Badminton"/><b>Badminton</b>
       </div>
       <br>
     </td>
@@ -71,19 +71,19 @@
   </tr>
   <tr align="center">
     <td width="25%">
-      <img src="image/JKM KDSE.jpeg" height="100" width="auto" title="JKM KDSE" alt="JKM KDSE"/><br>
+      <img src="image/JKM KDSE.jpeg" height="100" title="JKM KDSE" alt="JKM KDSE"/><br>
       <h5><b>Student College Committee</b></h5>
     </td>
     <td width="25%">
-      <img src="image/MPP FC.jpeg" height="100" width="auto" title="MPP FC" alt="MPP FC"/><br>
+      <img src="image/MPP FC.jpeg" height="100" title="MPP FC" alt="MPP FC"/><br>
       <h5><b>Student Representative Council</b></h5>
     </td>
     <td width="25%">
-      <img src="image/parliament.jpeg" height="100" width="auto" title="MPP FC" alt="MPP FC"/><br>
+      <img src="image/parliament.jpeg" height="100" title="MPP FC" alt="MPP FC"/><br>
       <h5><b>UTM National Parliament Representative</b></h5>
     </td>
     <td width="25%">
-      <img src="image/Event Lecturer.jpeg" height="100" width="auto" title="Event Lecturer" alt="Event Lecturer"/><br>
+      <img src="image/Event Lecturer.jpeg" height="100" title="Event Lecturer" alt="Event Lecturer"/><br>
       <h5><b>Event Lecturer</b></h5>
     </td>
   </tr>
