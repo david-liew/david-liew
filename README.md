@@ -8,8 +8,6 @@
     <td colspan="2">
       <blockquote>Nickname :</blockquote>
       <div align="right"><b>Jeng / David</b></div>
-      <blockquote>Hometown :</blockquote>
-      <div align="right"><b>Johor, Malaysia</b></div>
       <blockquote>Language :</blockquote>
       <div align="right"><b>Malay, English, Mandarin, and Cantonese</b></div>
       <blockquote>About Me :</blockquote>
