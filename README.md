@@ -1,4 +1,3 @@
-# BIO
 <table border="10" align="center">
   <!--Biodata-->
   <tr>
@@ -6,31 +5,25 @@
       <img src="image/cat.jpeg" height="300" title="Liew Yng Jeng" alt="Liew Yng Jeng">
     </td>
     <td colspan="2">
-      <blockquote>Nickname :</blockquote>
+     <!-- <blockquote>Nickname </blockquote>
       <div align="right"><b>Jeng / David</b></div>
       <blockquote>Language :</blockquote>
       <div align="right"><b>Malay, English, Mandarin, and Cantonese</b></div>
       <blockquote>About Me :</blockquote>
       <div align="justify">I am driven to create meaningful and efficient solutions that make a real difference in people’s lives. My goal is to constantly refine my skills in software development, ensuring that my work reduces errors and streamlines complex processes. I believe in continuous improvement and always look for ways to make systems work smarter, not harder.</div>
-      <br>
+      <br> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=35&duration=3000&color=FFFFFF&width=435&lines=I'm+David+%F0%9F%91%BB%F0%9F%91%8B;Welcome+to+my+profile!;" />
+
+🎓 *Student | Developer*  
+🌟 ENFJ-T
+💻 Passionate about coding and creating innovative solutions.  
+🌱 Currently studying *Master In Data Science*.  
+💖 Love exploring *technology, music, and nature*.
     </td>
   </tr>
+
   <tr>
-    <td colspan="4"><h4>1. Hobby 🔥</h4></td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      <br>
-      <div align="center">
-        <img src="image/genshin.png" height="100" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/><b>Video Game(Genshin Impact)</b>
-        <img src="image/chess.png" height="100" title="Chess" alt="Chess"/><b>Chess</b>
-        <img src="image/bmt.png" height="100" title="Badminton" alt="Badminton"/><b>Badminton</b>
-      </div>
-      <br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4"><h4>2. Education (Universiti Teknologi Malaysia) 🎓</h4></td>
+    <td colspan="4"><h4>1. Education (Universiti Teknologi Malaysia) 🎓</h4></td>
   </tr>
   <tr>
     <td colspan="4">
@@ -48,7 +41,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="4"><h4>3. Hard Skills 💻</h4></td>
+    <td colspan="4"><h4>2. Hard Skills 💻</h4></td>
   </tr>
   <tr>
     <td colspan="4">
@@ -65,7 +58,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="4"><h4>4. University Activity Achievement 🏆</h4></td>
+    <td colspan="4"><h4>3. University Activity Achievement 🏆</h4></td>
   </tr>
   <tr align="center">
     <td width="25%">
@@ -86,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="4"><h4>5. Internship Experience 💼</h4></td>
+    <td colspan="4"><h4>4. Internship Experience 💼</h4></td>
   </tr>
   <tr>
     <td colspan="4">
@@ -104,6 +97,20 @@
           <blockquote>Job Scope: Create dynamic slideways, create whiteboard animation, create graphic designs, develop departmental website development, and develop interactive communication applications.</blockquote>
         </li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4"><h4>5. Hobby :fire:</h4></td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <br>
+      <div align="center">
+        <img src="image/genshin.png" height="100" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/><b>Video Game(Genshin Impact)</b>
+        <img src="image/chess.png" height="100" title="Chess" alt="Chess"/><b>Chess</b>
+        <img src="image/bmt.png" height="100" title="Badminton" alt="Badminton"/><b>Badminton</b>
+      </div>
+      <br>
     </td>
   </tr>
 </table>
